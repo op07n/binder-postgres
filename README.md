@@ -1,4 +1,4 @@
-# jupyter-postgres-demo
+# binder-postgres
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/psychemedia/jupyter-postgres-demo/master)
 
